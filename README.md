@@ -11,10 +11,6 @@ X PPLG
 SMKN 1 DEPOK
 
 ## Tentang saya
-Seorang pelajar SMK kelas X jurusan Pengembangan Perangkat Lunak dan Gim (PPLG). Saya memiliki ketertarikan dalam bidang Game Development. Saat ini bersekolah di SMKN 1 Depok. Saya sedikit mahir dalam HTML, CSS, dan JavaScript. Tinggal di Depok, Jawa Barat, Indonesia.
-
-👤 Tentang Saya
-
 Saya adalah seorang pelajar kelas X jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) di SMKN 1 Depok. Saya berdomisili di Depok, Jawa Barat, Indonesia.
 
 Saya memiliki ketertarikan terhadap dunia teknologi, khususnya pemrograman, web development, dan game development. Saat ini, saya sedang mempelajari dasar-dasar web development menggunakan HTML, CSS, dan JavaScript.
