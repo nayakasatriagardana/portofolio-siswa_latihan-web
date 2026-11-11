@@ -1,2 +1,2 @@
-# portofolio-siswa_latihan-siswa
+# portofolio-siswa_latihan-web
 Website untuk melatih siswa PPLG
